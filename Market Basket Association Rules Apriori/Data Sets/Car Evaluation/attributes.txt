@@ -1,0 +1,1 @@
+BP_v-high BP_high BP_med BP_low MP_v-high MP_high MP_med MP_low Doors_2 Doors_3 Doors_4 Doors_5-more Persons_2 Persons_4 Persons_more LuggageBoot_small LuggageBoot_med LuggageBoot_big Safety_low Safety_med Safety_high unacc acc good v-good
